@@ -1,6 +1,8 @@
 # PopupMagic
 PopupMagic is a web development repository that showcases interactive and engaging user interface elements using HTML, CSS, and JavaScript.
 
+![s](https://github.com/saqibbedar/InteractiveWebElements/assets/124094939/1e2ce544-54ce-488b-adbb-f6ccaf70e5e9)
+
 Features
 Popup Notification:
 
